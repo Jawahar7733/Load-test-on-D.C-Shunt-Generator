@@ -41,3 +41,5 @@ Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
 Result:
+<img width="1366" height="728" alt="LOAD CHARACTERISTICS OF DC SHUNT GENERATOR" src="https://github.com/user-attachments/assets/a2c3f6f7-f9d2-4b57-bd21-da16408fd7ea" />
+
